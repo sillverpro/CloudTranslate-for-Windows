@@ -126,16 +126,6 @@ Copy this next to your `config.json`.
 
 ---
 
-## 🖼 Screenshots
-
-```
-Add your screenshots inside /screenshots and reference them here:
-![Main UI](screenshots/main_ui.png)
-![History](screenshots/history.png)
-```
-
----
-
 ## 🌐 Supported Languages
 
 ### Main  
