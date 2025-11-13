@@ -1,0 +1,8 @@
+# config.json
+
+```json
+{
+  "google_api_key": "YOUR_GOOGLE_API_KEY",
+  "monthly_limit": 500000
+}
+```
