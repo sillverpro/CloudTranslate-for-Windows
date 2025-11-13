@@ -1,4 +1,4 @@
-# WHO Translator (Windows 11 Style)
+# CloudTranslate for Windows
 
 A modern, portable Windows desktop translation tool built with **Python + CustomTkinter**, featuring a clean Windows 11 Fluent-style UI.
 
@@ -66,17 +66,11 @@ usage.json
 ## 📁 Project Structure
 
 ```
-who-translator/
+cloudtranslate-for-windows/
 │
-├── src/
-│   ├── translator.py
-│   ├── config.example.json
-│   └── README.md
-│
-├── screenshots/
-│   ├── main_ui.png
-│   └── history.png
-│
+├── translator.py
+├── config.example.json
+├── README.md
 ├── .gitignore
 ├── LICENSE
 ├── requirements.txt
@@ -110,7 +104,7 @@ python translator.py
 
 ## 🪟 Building Portable EXE
 
-Run inside `/src`:
+Run:
 
 ```bash
 pyinstaller --onefile --noconsole translator.py
