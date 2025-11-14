@@ -235,7 +235,7 @@ class TranslatorApp(ctk.CTk):
         self.usage_data = load_usage(config["monthly_limit"])
         self.history_data = load_history()
 
-        self.title("WHO Translator - EN/TH + WHO languages")
+        self.title("CloudTranslate for Windows")
         self.geometry("900x600")
         self.minsize(850, 550)
 
